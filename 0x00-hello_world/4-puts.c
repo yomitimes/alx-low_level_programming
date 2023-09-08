@@ -1,9 +1,8 @@
 #include <stdio.h>
-/** Main - A programn to print.
- * Return: 0
- */
+/* main: A programn to print.*/
+/* return: 0 if successful.*/
 int main(void)
-	{
-		puts("/"Programming is like building a multilingual puzzle");
+{
+		puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
