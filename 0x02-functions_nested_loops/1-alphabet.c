@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * main - A program that prints the alphabet
+ * print_alphabet - A program that prints the alphabet
  * Return: 0
  */
-int main(void)
+void print_alphabet(void)
 {
 char i;
 for (i = 'a'; i <= 'z'; i++)
